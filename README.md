@@ -19,7 +19,8 @@ A robust REST API for a cinema booking system, built as a clone of local cinema 
 The API is fully documented using Swagger UI.
 *(Below is a preview of the API endpoints)*
 
-[ВСТАВЬ СКРИНШОТ СВОЕГО SWAGGER СЮДА (просто перетащи картинку в редактор GitHub или VSCode)]
+<img width="1726" height="966" alt="Снимок экрана — 2026-06-09 в 07 33 50" src="https://github.com/user-attachments/assets/94cd2113-c812-4068-8410-51e51ffa4f78" />
+
 
 ## 💻 How to Run Locally
 
