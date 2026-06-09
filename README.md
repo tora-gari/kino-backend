@@ -25,7 +25,7 @@ The API is fully documented using Swagger UI.
 
 1. **Clone the repository:**
    ```bash
-   git clone [ТВОЯ ССЫЛКА НА GITHUB]
+   git clone (https://github.com/tora-gari)
    cd kino-backend
    ```
 
