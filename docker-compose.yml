@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  kino-db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: rootpassword
+      POSTGRES_DB: kino_db
+    ports:
+      - '5433:5432'
+    volumes:
+      - kino_pgdata:/var/lib/postgresql/data
+
+volumes:
+  kino_pgdata:
